@@ -1,4 +1,4 @@
-# yourRsps1
+# Your RSPS (1)
 A free, Open Source RSPS site template with an integrated pbpBB3 forum.
 
 #Set-Up Guide
