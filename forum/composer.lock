@@ -899,7 +899,7 @@
         },
         {
             "name": "symfony/dependency-injection",
-            "version": "v2.8.21",
+            "version": "v2.8.50",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/dependency-injection.git",
